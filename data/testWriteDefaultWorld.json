@@ -1,0 +1,108 @@
+{
+    "score": 0,
+    "character": {
+        "x": 4,
+        "y": 2
+    },
+    "world": [
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 1}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0}
+        ]},
+        {"row": [
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 0},
+            {"tile": 1},
+            {"tile": 0}
+        ]}
+    ]
+}

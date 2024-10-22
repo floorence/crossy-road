@@ -1,0 +1,142 @@
+{
+    "world": [
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]},
+      { "row" : [
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 }
+      ]},
+      { "row" : [
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 },
+        { "tile": 2 }
+      ]},
+      { "row" : [
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 1 },
+        { "tile": 0 },
+        { "tile": 0 },
+        { "tile": 0 }
+      ]}
+    ],
+    "score": 3,
+    "character": {
+    "x": 2,
+    "y": 5
+    }
+
+}

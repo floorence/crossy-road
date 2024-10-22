@@ -1,0 +1,7 @@
+{
+    "characters": [
+      {"name": "Gregor", "image": "G"},
+      {"name": "Karina", "image":  "K"},
+      {"name": "Felix", "image": "F"}
+    ]
+}
