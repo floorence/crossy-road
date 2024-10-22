@@ -1,15 +1,4 @@
-# My Personal Project
-
-## A subtitle
-
-A *bulleted* list:
-- item 1
-- item 2
-- item 3
-
-An example of text with **bold** and *italic* fonts.  
-
-## Crossy Road
+# Crossy Road
   My application will be a Java implementation of the popular game crossy
 road, where you try to cross a road without getting hit by cars and try
 to get as far as you can. I might consider adding some of these features 
