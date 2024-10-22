@@ -29,7 +29,7 @@ my list of characters and high scores when I quit the application
 - As a user, I want to be able to move around in the game
 
 
-# Instructions for Grader
+# Instructions for User
 
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by 
 clicking the "characters" button from the Menu page and clicking the "add character" button which shows a 
@@ -46,17 +46,7 @@ open asking you to select the components of the game you want to save.
 to select the components of the game you want to load. Only the components that aren't empty will show up and 
 be able to be selected.
 
-# Phase 4: Task 2
-character added: gregor
-character added: felix
-character added: firas
-character added: rajrupa
-character added: florence
-character added: karina
-character removed: gregor
-character removed: felix
-
-# Phase 4: Task 3
+# Reflections
 If I had more time to work on the project, I would have a lot of refactoring to do due to many 
 questionable design choices I made. First of all, I can use the Singleton pattern to decrease coupling. 
 I can make my CrossyRoad class a singleton because there is only ever one of them in the program at any
